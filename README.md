@@ -5,4 +5,4 @@ Yukki Music Bot, but debloated!
 
 ----------------------------------------------------------------------------------------------
 
-[Deploy](https://heroku.com/deploy?template=https://github.com/fourbearscourses/YukkiMusicBot)
+[Deploy](https://heroku.com/deploy?template=https://github.com/FreakMask/YukkiMusicBotfork)
