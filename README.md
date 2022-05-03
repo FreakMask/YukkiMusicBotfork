@@ -1,4 +1,4 @@
-@@ -1,7 +0,0 @@
+
 ### What is this?
 
 Yukki Music Bot, but debloated!
